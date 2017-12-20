@@ -12,6 +12,6 @@
 
 @property (nonatomic, assign) BOOL isDragging;
 
-@property (nonatomic, assign) BOOL isEditing;
+@property (nonatomic, assign) BOOL isEditing ;
 
 @end
